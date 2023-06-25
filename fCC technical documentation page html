@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+  <link rel="stylesheet" href="styles.css"
+    <title>Proper Book Reporting</title>
+    <p><h1>Necessary Book Report Elements</h1></p>
+    <p>All 5th graders should include each of the following sections in their book reports:</p>
+  </head>
+
+  <nav id="navbar">
+    <header>Click on a section to learn more</header>
+    <a class="nav-link" href="#Summary">Summary</a>
+    <a class="nav-link" href="#Characters">Characters</a>
+    <a class="nav-link" href="#Literary_Elements">Literary Elements</a>
+    <a class="nav-link" href="#Citations">Citations</a>
+    <a class="nav-link" href="#Other_information">Other information</a>
+    <a class="nav-link" href="#html_guide">html guide</a>
+  </nav>
+
+  <body>
+    <main id="main-doc">
+      <section class="main-section" id="Summary">
+        <header>
+          <h2>Summary</h2>
+        </header>
+          <p class="example">Your summary should be about one paragraph long. Remember to include all important events from the story. If you need help, you can start by creating a plot diagram to decide which events should be included in your summary. </p>
+          <p>You will recieve all 40 points for this section if you have more than 3 sentences about the story with correct punctuation.</p>
+      </section>
+
+
+      <section class="main-section" id="Characters">
+        <header>
+          <h2>Characters</h2>
+        </header>
+          <p>You should include the name and a short description of at least three characters. One character should be the protagonist. One character should be the antagonist. There should be at least one other character that you choose to highlight. </p>
+          <p>You will recieve all 10 points for this section if you include the names of three characters and a one sentence description of each character. </p>
+      </section>
+
+      <section class="main-section" id="Literary_Elements">
+        <header>
+          <h2>Literary Elements</h2>
+        </header>
+          <p>You must identify and explain at least one literary element in the story. Choose from one of the following literary elements:</p>
+          <ul>
+            <li>setting</li>
+            <li>point of view</li>
+            <li>theme</li>
+            <li>2 literary devices</li>
+          </ul>
+          <p>You will recieve all 20 points for this section if you correctly identify and describe at least one literary element.</p>
+      </section>
+
+      <section class="main-section" id="Citations">
+        <header>
+          <h2>Citations</h2>
+        </header>
+          <p>Citation information must be included in this order</p>
+          <ol>
+            <li>author</li>
+            <li>title</li>
+            <li>publisher</li>
+            <li>publication date</li>
+            <li>location</li>
+
+          <p>This must be included for all books, including fiction books. You will receive all 10 points for correctly citing your book.</p>
+      </section>
+
+      <section class="main-section" id="Other_information">
+        <header>
+          <h2>Other information</h2>
+        </header>
+          <p>You may include any other interesting information in this section. You may choose another literary element or share something else in your report.</p>
+          <p>You will recieve all 10 points for completing this section.</p>
+      </section>
+      
+      <section class="main-section" id="html_guide">
+        <header>
+          <h2>html guide</h2>
+        </header>
+        <p>Check each box before submitting your work</p>
+        <code><input type="checkbox">Summary</code>
+        <code><input type="checkbox">Characters</code>
+        <code><input type="checkbox">Literary Element</code>
+        <code><input type="checkbox">Citation</code>
+        <code><input type="checkbox">Other Information</code>
+      </section>
+    </main>
+  </body>
+</html> 
